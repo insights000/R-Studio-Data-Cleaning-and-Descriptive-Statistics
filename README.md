@@ -40,13 +40,14 @@ Use summary(df) to show the statistics of the dataset in R Studio
 ![image](https://github.com/insights000/R-Studio-Data-Cleaning-and-Descriptive-Statistics/assets/150028138/ce4171c0-21c7-45dd-aa83-f1d940ca4065)
 
  
-Use ggplot(df1, aes(x=Lead.Studio, y=Rotten.Tomatoes..)) + geom_point()+ scale_y_continuous(labels = scales::comma)+coord_cartesian(ylim = c(0, 110))+theme(axis.text.x = element_text(angle = 90))
-to show a scatterplot
-
+**Use ggplot(df1, aes(x=Lead.Studio, y=Rotten.Tomatoes..)) + geom_point()+ scale_y_continuous(labels = scales::comma)+coord_cartesian(ylim = c(0, 110))+theme(axis.text.x = element_text(angle = 90))
+to show a scatterplot**
  
 As seen in the image the code resulted in a scatterplot of Rotten Tomato ratings against studio
 
 ![image](https://github.com/insights000/R-Studio-Data-Cleaning-and-Descriptive-Statistics/assets/150028138/337d2334-94ac-44b4-b4cf-dd2529ebc2fb)
+
+The final part of the task involved me then importing the cleaned data file onto a new CSV file which could then be imported into Power BI 
 
 
 
