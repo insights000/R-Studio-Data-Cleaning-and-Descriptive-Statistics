@@ -2,7 +2,7 @@
 
 ![image](https://github.com/insights000/R-Studio-Data-Cleaning-and-Descriptive-Statistics/assets/150028138/9c600257-0c46-4190-8d9e-f492b2e07c65
 
-**Assignment 3 on Level 3 Data Technician Bootcamp**
+**Assignment 3 on Level 3 Data Technician Bootcamp** 
 
 ****Task: ** The task set involves cleaning the data given to us in relation to Hollywood’s Greatest Stories on a R file, visualising data on an R file and the importing into Power BI once the cleaned data has been exported thus creating a dashboard to show the following visualisations**
 
