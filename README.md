@@ -1,6 +1,8 @@
 # R-Studio-Data-Cleaning-and-Descriptive-Statistics and Visualisation- Part 1 of 2 of Assignment 
 
-![image](https://github.com/insights000/R-Studio-Data-Cleaning-and-Descriptive-Statistics/assets/150028138/9c600257-0c46-4190-8d9e-f492b2e07c65
+
+![image](https://github.com/insights000/R-Studio-Data-Cleaning-and-Descriptive-Statistics/assets/150028138/f1572101-954a-474c-9564-e23be93ccff1)
+
 
 **Assignment 3 on Level 3 Data Technician Bootcamp** 
 
@@ -26,7 +28,10 @@ Step 1- Load the data and file paths and view data
   
 **-as seen in images used df -< na.omit(df) to achieve**
 
-![image](https://github.com/insights000/R-Studio-Data-Cleaning-and-Descriptive-Statistics/assets/150028138/159a77e3-cdd0-4a19-bf8d-b9967f730b29)
+
+![image](https://github.com/insights000/R-Studio-Data-Cleaning-and-Descriptive-Statistics/assets/150028138/84f886aa-cee7-4590-b447-273cc69cdb09)
+
+
 
 ****Descriptive Statistics and Visualisations in R Studio** 
 **Summary statistics**
